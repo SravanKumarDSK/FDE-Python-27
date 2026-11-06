@@ -1,4 +1,9 @@
+<h1 align="center"> 🐍  Python Learning Journey</h1>
+<!-- <h3 align="center">Daily Concepts, Code Examples & Practice</h3> -->
+<h3 align="center">FDE (Forward Deployed Engineer) Training</h3>
+<p align="center">Daily Learning Index </p>
 
+---
 # Python Learning Progress Tracker
 
 | S.No | Date | Topics Covered | Status |
